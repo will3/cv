@@ -1,7 +1,7 @@
 # William Zhou  
 **Emai**l: will3.git@gmail.com  	
 **Phone**: 021 026 85259  
-NZ residency
+NZ Residency
 
 ------
 
@@ -23,7 +23,7 @@ Experienced Mobile developer who is passionate about building beautiful, reponsi
 
 ------
 
-### Experience
+### Work History
 
 Vista Entertainment Solutions
 : *Mobile Developer*
@@ -37,7 +37,7 @@ Vista Entertainment Solutions
 Cycles Research Institute
 : *Research Assistant*
   __2009-2011__
-  Data analysis / plotting tool \(BASIC\)  
+  Main developer for data analysis / plotting tool \(BASIC\)  
   [http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
 
 ------
@@ -58,7 +58,7 @@ Vista MobileCinema
   [https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)
 
 Vista UsherPoint
-: Help cinema ushers with crowd control  
+: Assist cinema ushers with crowd control  
   [https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)
 
 Vista InTouch
@@ -86,7 +86,7 @@ injectour
   [https://www.npmjs.com/package/injectour](https://www.npmjs.com/package/injectour)
 
 cpr2
-: Retro style color picker  
+: Retro style colour picker  
   [https://www.npmjs.com/package/cpr2](https://www.npmjs.com/package/cpr2)
 
 edger

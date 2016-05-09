@@ -5,22 +5,21 @@ NZ residency
 
 ------
 
-### Personal statement  
-Mobile developer who's passionate about building beautiful, responsive apps. I'm passionate about code craft, and thrive to write clean code that's easy to read and maintain. In my free time, I like to work on open source projects to further my professional development.
+Experienced Mobile developer who is passionate about building beautiful, reponsive apps. In my previous job, I was one of the core developers for several successful green field projects. In my free time, I like to work on open source projects to further my learning.
 
 ------
 
 ### Skills
 
-1. Swift  
-1. Objective-C  
-1. Android      
-1. ASP.NET  
-1. Node.js  
-1. JavaScript  
-1. CoffeeScript  
-1. HTML, CSS  
-1. Jenkins
+1. Swift        **9** / 10
+1. Objective-C  **9** / 10
+1. Android      **7** / 10
+1. ASP.NET      **4** / 10
+1. Node.js      **6** / 10
+1. JavaScript   **8** / 10
+1. CoffeeScript **5** / 10
+1. HTML, CSS    **4** / 10
+1. Jenkins      **7** / 10
 
 ------
 
@@ -30,16 +29,15 @@ Vista Entertainment Solutions
 : *Mobile Developer*
   __2012-2016__
   Responsibilities  
-  * Maintaining and extending mobile products  
-	* Configuring iOS continuous integration using Jenkins, assisting App Store releases  
-	* Maintaining internal tools, used by cinema managers to customize and build branded apps  
-	* Contribute towards architectural changes, including refactoring existing code base and introducing new patterns in iOS source  
-	* Maintaining server modules used by mobile products  
+  * Maintaining and extending mobile products \(iOS & Android\)  
+	* Configuring continuous integration \(Jenkins\), assisting App Store releases  
+	* Building several internal tools \(Node.js\)  
+	* Maintaining app server modules \(ASP.NET Web API\)  
 
 Cycles Research Institute
 : *Research Assistant*
   __2009-2011__
-  Built a data analysis / plotting tool for cycle data  
+  Data analysis / plotting tool \(BASIC\)  
   [http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
 
 ------
@@ -53,30 +51,34 @@ University of Auckland
 
 ------
 
-### App Store
+### Apps
 
-MobileCinema
+Vista MobileCinema
 : Ticketing app for cinema goers  
   [https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)
 
-UsherPoint
+Vista UsherPoint
 : Help cinema ushers with crowd control  
   [https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)
 
-InTouch
+Vista InTouch
 : Help cinema managers monitor staff and session sales  
   [https://itunes.apple.com/nz/app/vista-intouch/id642693317](https://itunes.apple.com/nz/app/vista-intouch/id642693317)
 
+Sky Map
+: Star gazing app  
+  [https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0](https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0)
+
 ------
 
-### Open source projects
+### Projects
 
 Voskel
-: Web app for building 3d voxel art  
+: 3d voxel art creation tool  
   [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
 
-Meow (2016 Global game jam)
-: Typing game, with cats.  
+Meow \(2016 Global game jam\)
+: Typing game, with cats  
   play now: [http://nychinn.github.io/meow](http://nychinn.github.io/meow)
 
 injectour
@@ -93,4 +95,4 @@ edger
 
 ------
 
-References available upon request
+*References available upon request*

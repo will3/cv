@@ -5,7 +5,7 @@ NZ Residency
 
 ------
 
-iOS, Android, Node.js Developer. I am passionate about, and quick to pick up new technologies with a "can do" attitude.
+iOS, Android, Node.js Developer.
 
 ------
 
@@ -30,17 +30,17 @@ Vista Entertainment Solutions
   __2012-2016__
   I have:  
   * Built several mobile products, used by more than 20 cinema chains around the world.  
-	* Set up continuous integration, build, test, brand, code sign and serve IPA files via ota, all triggered by commits.  
-	* Built several node.js tool used internally, including one to check disk space on the build server, another to replace assets in an app file post build.
-	* Worked with WCF servers built on SQL Server. Built several features around push notifications.
-  * Refactored a portion of the code base from Objective-C to Swift.
-  * Written around 2000 unit tests
+	* Set up continuous integration, to build, test, brand, code sign and serve IPA files via OTA, all triggered by commits.  
+	* Built several node.js tools used internally, including one to check disk space on the build server, and another to replace assets in an app file post build.  
+	* Worked on one of the .NET servers used by the apps. Built a messaging system using push notifications.  
+  * Refactored a portion of the code base from Objective-C to Swift.  
+  * Written around 2000 unit tests  
+  * Mentored junior developers, including doing code reviews and providing technical guidance.
 
 Cycles Research Institute
 : *Research Assistant*
   __2009-2011__
-  I have:
-  Built a data analysis / plotting tool \(BASIC\)  
+  * Built a data analysis / plotting tool \(BASIC\)  
   [http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
 
 ------
@@ -49,8 +49,8 @@ Cycles Research Institute
 
 University of Auckland
 : Bachelor of Commerce
-	__2008-2012__
-	majoring in Infosys and OpsMgt
+	__2008-2012__  
+	majoring in Information Systems
 
 ------
 
@@ -78,7 +78,7 @@ Voskel
 
 Meow \(2016 Global game jam\)
 : Typing game, with cats  
-  play now: [http://nychinn.github.io/meow](http://nychinn.github.io/meow)
+  Play now: [http://nychinn.github.io/meow](http://nychinn.github.io/meow)
 
 injectour
 : Lightweight injector, inspired by angular js  

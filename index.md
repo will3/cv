@@ -51,6 +51,10 @@ University of Auckland
 	__2008-2012__  
 	Majoring in Information Systems
 
+Avondale College
+: __2004-2008__
+  NCEA Scholarships in Calculus, Statistics and Physics
+
 ------
 
 ### Apps & Projects

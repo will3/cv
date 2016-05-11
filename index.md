@@ -5,7 +5,7 @@ NZ Residency
 
 ------
 
-Experienced Mobile developer who is passionate about building beautiful, reponsive apps. In my previous job, I was one of the core developers for several successful green field projects. In my free time, I like to work on open source projects to further my learning.
+iOS, Android, Node.js Developer. I am passionate about, and quick to pick up new technologies with a "can do" attitude.
 
 ------
 
@@ -28,16 +28,19 @@ Experienced Mobile developer who is passionate about building beautiful, reponsi
 Vista Entertainment Solutions
 : *Mobile Developer*
   __2012-2016__
-  Responsibilities  
-  * Maintaining and extending mobile products \(iOS & Android\)  
-	* Configuring continuous integration \(Jenkins\), assisting App Store releases  
-	* Building several internal tools \(Node.js\)  
-	* Maintaining app server modules \(ASP.NET Web API\)  
+  I have:  
+  * Built several mobile products, used by more than 20 cinema chains around the world.  
+	* Set up continuous integration, build, test, brand, code sign and serve IPA files via ota, all triggered by commits.  
+	* Built several node.js tool used internally, including one to check disk space on the build server, another to replace assets in an app file post build.
+	* Worked with WCF servers built on SQL Server. Built several features around push notifications.
+  * Refactored a portion of the code base from Objective-C to Swift.
+  * Written around 2000 unit tests
 
 Cycles Research Institute
 : *Research Assistant*
   __2009-2011__
-  Main developer for data analysis / plotting tool \(BASIC\)  
+  I have:
+  Built a data analysis / plotting tool \(BASIC\)  
   [http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
 
 ------
@@ -51,27 +54,23 @@ University of Auckland
 
 ------
 
-### Apps
+### Apps & Projects
 
-Vista MobileCinema
+Vista MobileCinema  
 : Ticketing app for cinema goers  
   [https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)
 
-Vista UsherPoint
+Vista UsherPoint  
 : Assist cinema ushers with crowd control  
   [https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)
 
-Vista InTouch
+Vista InTouch  
 : Help cinema managers monitor staff and session sales  
   [https://itunes.apple.com/nz/app/vista-intouch/id642693317](https://itunes.apple.com/nz/app/vista-intouch/id642693317)
 
-Sky Map
+Sky Map  
 : Star gazing app  
   [https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0](https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0)
-
-------
-
-### Projects
 
 Voskel
 : 3d voxel art creation tool  

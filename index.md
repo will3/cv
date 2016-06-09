@@ -2,7 +2,7 @@
 **Emai**l: will3.git@gmail.com  
 **Phone**: 021 026 85259  
 
-Experience iOS developer with a passion to build beautiful, responsive apps. I'm a hard working individual who's passionate about new technologies. I also have extensive experience in Android, Build automation, Node.js and .NET, having worked on several products in my previous job in the last 4 years.
+Experienced iOS developer with a passion to build beautiful, responsive apps. I'm a hard working individual who's passionate about new technologies. I also have extensive experience in Android, Build automation, Node.js and .NET, having worked on several products in my previous job in the last 4 years.
 
 ------
 
@@ -10,8 +10,8 @@ Experience iOS developer with a passion to build beautiful, responsive apps. I'm
 
 - Extensive experience in Mobile development (Swift, Objective-C, Java)
 - Adaptive, good at working under pressure
-- Build automation (Jenkins, bash, node.js)
-- Version control (git, tfs)
+- Build automation (Jenkins, bash, Node.js)
+- Version control (Git, Tfs)
 - UI automation (KIF, Specflow, Gherkin, Cucumber)
 - Restful services (.NET, Web API, Node.js express)
 - Able to build prototypes quickly

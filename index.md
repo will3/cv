@@ -1,99 +1,85 @@
 # William Zhou  
-**Emai**l: will3.git@gmail.com  	
+**Emai**l: will3.git@gmail.com  
 **Phone**: 021 026 85259  
-NZ Residency
 
-------
-
-iOS, Android, Node.js Developer.
+Experience iOS developer with a passion to build beautiful, responsive apps. I'm a hard working individual who's passionate about new technologies. I also have extensive experience in Android, Build automation, Node.js and .NET, having worked on several products in my previous job in the last 4 years.
 
 ------
 
 ### Skills
 
-1. Swift        **9** / 10
-1. Objective-C  **9** / 10
-1. Android      **7** / 10
-1. ASP.NET      **4** / 10
-1. Node.js      **6** / 10
-1. JavaScript   **8** / 10
-1. CoffeeScript **5** / 10
-1. HTML, CSS    **4** / 10
-1. Jenkins      **7** / 10
+- Extensive experience in Mobile development (Swift, Objective-C, Java)
+- Adaptive, good at working under pressure
+- Build automation (Jenkins, bash, node.js)
+- Version control (git, tfs)
+- UI automation (KIF, Specflow, Gherkin, Cucumber)
+- Restful services (.NET, Web API, Node.js express)
+- Able to build prototypes quickly
+- App Deployment (OTA, enterprise provisioning, code sign, package IPAs)
 
 ------
 
 ### Work History
 
-Vista Entertainment Solutions
-: *Mobile Developer*
-  __2012-2016__
-  * Built several mobile products, used by more than 20 cinema chains around the world.  
-	* Set up continuous integration, to build, test, brand, code sign and serve IPA files via OTA, all triggered by commits.  
-	* Built several node.js tools used internally, including one to check disk space on the build server, and another to replace assets in an app file post build.  
-	* Worked on one of the .NET servers used by the apps. Built a messaging system using push notifications.  
-  * Refactored a portion of the code base from Objective-C to Swift.  
-  * Written around 2000 unit tests.  
-  * Mentored junior developers, including doing code reviews and providing technical guidance.
+#### Vista Entertainment Solutions (2012-2016)  
+**Lead iOS developer**  
 
-Cycles Research Institute
-: *Research Assistant*
-  __2009-2011__
-  * Built a data analysis / plotting tool \(BASIC\)  
-  [http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
+Vista creates software for the cinema industry ranging anything from online ticketing, point of sale to air conditioning. I was one of the first mobile developers hired by Vista and was involved in several green field projects and expanded the mobile product suite. The team has since grown to a size of 8 and I have worked closely with other developers, testers and designers in an agile team.
+
+##### Responsibilities:
+
+- Implement new features, work closely with designers and adopt modern UI designs
+- Respond to customer bugs and requests, assist in release processes (App store and Enterprise distribution)
+- Shape code architecture, introduce new patterns and frameworks
+- Maintain continuous integration, simplify deployment process
+
+##### Projects:
+
+- **Vista UsherPoint** (iOS, for cinema staff)  
+Used for scanning bookings in the lines and crowd control. This is my first green field project in Vista. While working closely with the stackholders, I was able to quickly build a prototype and present it to potential customers. As a result, a major cinema chain has bought the product, and it is now used by several more.  
+
+- **Vista Mobile Cinema** (iOS & Android, for movie goers)  
+In this project, I was involved in building a ticketing app to replace an existing, outdated version. This gave me the opportunity to adopt new technologies and modern UI practises. I also built an internal tool for customers to customise and brand the app, which greatly simplified the deployment process. As a result, Vista sold the app to over 20 cinema chains and this number is still growing.
+
+#### Cycles Research Institute (2009-2011)  
+**Research Assistant**  
+Data analysis / plotting tool, for analysing cycle data.  
+[http://cyclesresearchinstitute.org/cats/](http://cyclesresearchinstitute.org/cats/)
 
 ------
 
 ### Education
 
-University of Auckland
-: Bachelor of Commerce
-	__2008-2012__  
-	Majoring in Information Systems
+**University of Auckland** (2008-2012)  
+Bachelor of Commerce  
+Majoring in Information Systems
 
-Avondale College
-: __2004-2008__
-  NCEA Scholarships in Calculus, Statistics and Physics
+**Avondale College** (2004-2008)  
+NCEA Scholarships in Calculus, Statistics and Physics
 
 ------
 
-### Apps & Projects
+### Projects
 
-Vista MobileCinema  
-: Ticketing app for cinema goers  
+- Vista MobileCinema  
+Ticketing app for cinema goers  
   [https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)
 
-Vista UsherPoint  
-: Assist cinema ushers with crowd control  
+- Vista UsherPoint  
+Crowd control app for cinema ushers  
   [https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)
 
-Vista InTouch  
-: Help cinema managers monitor staff and session sales  
+- Vista InTouch  
+Assist cinema managers to monitor staff and session sales  
   [https://itunes.apple.com/nz/app/vista-intouch/id642693317](https://itunes.apple.com/nz/app/vista-intouch/id642693317)
 
-Sky Map  
-: Star gazing app  
-  [https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0](https://www.microsoft.com/en-us/store/apps/sky-map/9wzdncrdnvz0)
-
-Voskel
-: 3d voxel art creation tool  
+- Voskel  
+3d voxel art creation tool  
   [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
 
-Meow \(2016 Global game jam\)
-: Typing game, with cats  
+- Meow \(2016 Global game jam\)  
+Typing game, with cats  
   Play now: [http://nychinn.github.io/meow](http://nychinn.github.io/meow)
-
-injectour
-: Lightweight injector, inspired by angular js  
-  [https://www.npmjs.com/package/injectour](https://www.npmjs.com/package/injectour)
-
-cpr2
-: Retro style colour picker  
-  [https://www.npmjs.com/package/cpr2](https://www.npmjs.com/package/cpr2)
-
-edger
-: Generate hard edges for voxel data  
-  [https://www.npmjs.com/package/edger](https://www.npmjs.com/package/edger)
 
 ------
 

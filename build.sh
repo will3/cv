@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat cv.html | wkhtmltopdf - cv.pdf
+cat index.html | wkhtmltopdf - cv.pdf

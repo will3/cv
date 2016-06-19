@@ -1,7 +1,8 @@
 # William Zhou  
 **Email**: will3.git@gmail.com  
 **Phone**: 021 026 85259  
-**Twitter**: @will3_z
+**Twitter**: @will3_z  
+*NZ residency*
 
 iOS Developer with 4+ years of experience.
 

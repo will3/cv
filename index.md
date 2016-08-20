@@ -88,8 +88,8 @@ A collection of custom UI controls
 3d voxel art creation tool  
   [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
 
-- Little Planet
-Procedural planet generator
+- Little Planet  
+Procedural planet generator  
 	[https://will3.github.io/little-planet/](https://will3.github.io/little-planet)
 
 ------

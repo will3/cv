@@ -4,7 +4,7 @@
 **Twitter**: @will3_z  
 *NZ residency*
 
-iOS Developer with 4+ years of experience.
+iOS, WebGL Developer.
 
 ------
 
@@ -16,13 +16,23 @@ iOS Developer with 4+ years of experience.
 - .NET, Web API, C#, SQL Server
 - UI automation (Specflow, Appium)
 - Version control (Git, Tfs)
+- WebGL (THREE.js)
 
 ------
 
 ### Work History
 
-##### Vista Entertainment Solutions (March 2012 - June 2016)  
-4 years and 3 month  
+#### WearIt  
+WearIt is a platform to provide styling recommendations for guys.
+
+(June 2016 - ongoing)  
+**iOS Contractor**
+
+- Developed an iMessage extension for iOS10
+- Working on an upcoming app
+
+#### Vista Entertainment Solutions  
+(March 2012 - June 2016)  
 **iOS developer**  
 
 Vista creates cinema ticketing and management software for cinemas in over 40 countries. Some NZ cinemas include Events and Hoyts.
@@ -77,6 +87,10 @@ A collection of custom UI controls
 - Voskel  
 3d voxel art creation tool  
   [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
+
+- Little Planet
+Procedural planet generator
+	[https://will3.github.io/little-planet/](https://will3.github.io/little-planet)
 
 ------
 

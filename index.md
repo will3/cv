@@ -2,95 +2,138 @@
 **Email**: will3.git@gmail.com  
 **Phone**: 021 026 85259  
 **Twitter**: @will3_z  
+**Github**: https://github.com/will3  
 *NZ residency*
 
-iOS, WebGL Developer.
+iOS Developer. Good knowledge of Node.js, C#, WebGL, CI and Unity. Keen programmer in free time.
 
 ------
 
 ### Skills
 
-- Mobile development (Objective-C, Swift, Java)
+- iOS (Objective-C & Swift)
+- Build Automation (CircleCI, Jenkins, bash scripting, Node.js)
 - Node.js, javascript, coffee script, WebGL
-- Build Automation (Jenkins, bash, Node.js)
-- .NET, Web API, C#, SQL Server
-- UI automation (Specflow, Appium)
-- Version control (Git, Tfs)
+- .NET, C#, SQL Server
+- UI automation (KIF, Specflow, Appium)
+- Git, Tfs, SourceTree, Gitflow
 - WebGL (THREE.js)
+- Unity
+- Rails, postgres
 
 ------
 
 ### Work History
 
 #### WearIt  
-WearIt is a platform to provide styling recommendations for guys.
-
 (June 2016 - ongoing)  
-**iOS Contractor**
+**Lead iOS Developer**
 
-- Developed an iMessage extension for iOS10
-- Working on an upcoming app
+WearIt is a platform for guys to get styling recommendations from stylists.
+
+**Responsibilities**
+
+- Lead developer involved in key projects
+- Maintain continuous integration
+- Monitor crashlytics
+- Manage provisioning profiles and App store releases
+- Extend Rails server and make fixes when needed
+- Forked and repurposed several 3rd party libraries
 
 #### Vista Entertainment Solutions  
 (March 2012 - June 2016)  
 **iOS developer**  
 
-Vista creates cinema ticketing and management software for cinemas in over 40 countries. Some NZ cinemas include Events and Hoyts.
+Vista creates ticketing and management software for cinemas in over 40 countries, including Events and Hoyts.
 
 **Responsibilities and Achievements**:
 
-My primary responsibility at Vista was developing and expanding the iOS mobile suite, including contributing new features, bug fixes and enhancements in a scrum process, specific achievements include:
-
-- Expanded the mobile product suite, including Vista UsherPoint, Vista InTouch and Vista MobileCinema
-- Drove improvement with build automation using Jenkins, set up continuous integration for iOS
+- Lead developer involved in key projects
+- Drove improvement with build automation, set up continuous integration for iOS
 - Mentored and peer programmed with junior/intern iOS developers, sharing knowledge of existing code architecture and common iOS pitfalls
-- Leveraging open source tools, developed a process to automatically generate code documentations for iOS
-- Developed an UI Automation project for Android and iOS using Specflow / Appium
+- Leveraging open source tools, developed a process to generate code documentations
+- Implemented UI Automation for Android and iOS using Specflow / Appium
 - Developed a Node.js internal tool to brand the ticketing app, replacing existing manual process
-- Introduced Crashlytics to the app, using Jenkins to upload Dysm at build time.
-- Runner-up with a colleague in Vista's Innovation Cup. Our entry was a web app for the end-to-end generation of branded builds for account managers. Built using Ruby-on-Rails and Node.js.
+- Introduced Crashlytics to the app, automated with CI
+- Runner-up with a colleague in Vista's Innovation Cup. Our entry was a web app for the end-to-end generation of branded builds for account managers. Built using Rails and Node.js
 
 **Apps**:
 
-- Vista UsherPoint (March 2012 - )  
+#### Wearit 
+[https://itunes.apple.com/nz/app/wearit-guys-get-styled-girls/id1135291501?mt=8](https://itunes.apple.com/nz/app/wearit-guys-get-styled-girls/id1135291501?mt=8)  
+
+- Social app for guys to get styling recommendations from stylists
+- supports iMessage extension, send looks / products through messenger
+- App link / Universal link integration
+- Real time messaging using socket & push notifications
+- Browse products by category, prices, brands, colors etc
+- Interactive look builder for stylists
+
+#### UsherPoint
 [https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)  
-UsherPoint is an iOS app for cinema staffs to help with crowd control, session times and messaging managers. it is currently used by over 2000 cinema staffs (Regal, Cineplex).  
-Working closely with the product director, I built fast prototypes and presented to potential customers. As a result, I was offered a full time position to lead the development of the project. Over the years I was responsible for maintaining and building new features for the product.  
-Some technologies used were barcode scanning, external hardware integration (LineaPro, Honeywell), push notifications and real time messaging.  
 
-- Vista InTouch (Nov 2012 - )  
+- Crowd control for cinemas
+- External barcode scanner integration
+- View session times
+- Mark seats as broken
+
+#### InTouch
 [https://itunes.apple.com/nz/app/vista-intouch/id642693317](https://itunes.apple.com/nz/app/vista-intouch/id642693317)  
-InTouch is a companion app for UsherPoint, it is used by cinema managers to manage cinema staffs.  
-I was involved in rewriting the UX and building the backend using .NET and SQL Server. I also built a push notification / messaging service to facilitate real time messaging between InTouch and UsherPoint. Over the years, we've added functionalities such as seat swap, stock take and location checks.
 
-- Vista MobileCinema (July 2013 - )  
+- App for cinema managers
+- Real time messaging with cinema staff
+- Location check using barcodes
+
+#### MobileCinema
 [https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)  
-MobileCinema is a ticketing app for cinema goers.  
-A rewrite of an out-dated 3rd party app, I worked with another Android developer and wrote a modernized version for both platforms. The team has since grown to 8 members and I was responsible for driving and building new features, and mentoring junior / new developers.  
-Some features include push notifications, passbook integration, WeChat / AliPay integration, AppPay integration, loyalty member integration and  Movie / trailer ratings.
+
+- Ticketing app for cinema goers.
+- Passbook integration
+- WeChat / AliPay integration
+- Apple Pay integration
+- Rebrand and used by 20 cinema chains
+- Built node tool to automate rebranding
+
+#### Star Map
+[http://hellowinapps.com/app/sky-map/73b44797-85e2-4161-bfbb-a5efcbcbbc58](http://hellowinapps.com/app/sky-map/73b44797-85e2-4161-bfbb-a5efcbcbbc58)  
+
+- Star gazing app
+- Over 13,000 stars
+- 88 Constellations
 
 ------
 
 ### Education
 
-##### University of Auckland (2008 - Nov 2012)  
+##### University of Auckland (2008 - 2012)  
 Bachelor's Degree, Information Systems
 
 ------
 
-### Personal Projects
+### Projects
 
 - iOSDribble  
 A collection of custom UI controls  
 	[https://github.com/will3/iOSDribble](https://github.com/will3/iOSDribble)
 
+- TradeMe  
+Trade me clone  
+	[https://github.com/will3/TradeMe](https://github.com/will3/TradeMe)
+
 - Voskel  
-3d voxel art creation tool  
+Pixel art editor  
   [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
 
 - Little Planet  
 Procedural planet generator  
 	[https://will3.github.io/little-planet/](https://will3.github.io/little-planet)
+
+- Meow  
+Cat game  
+	[https://github.com/nychinn/meow](https://github.com/nychinn/meow)
+
+- Node modules  
+	[https://www.npmjs.com/~will3](https://www.npmjs.com/~will3)
 
 ------
 

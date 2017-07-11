@@ -1,105 +1,91 @@
-# William Zhou  
+# Will Zhou  
 **Email**: will3.git@gmail.com  
 **Phone**: 021 026 85259  
-**Twitter**: @will3_z  
 **Github**: https://github.com/will3  
 *NZ residency*
 
-iOS Developer. Good knowledge of Node.js, C#, WebGL, CI and Unity. Keen programmer in free time.
+iOS, Android, Hybrid, Web, Rails, Node.js, CI
 
-------
-
-### Skills
-
-- iOS (Objective-C & Swift)
-- Build Automation (CircleCI, Jenkins, bash scripting, Node.js)
-- Node.js, javascript, coffee script, WebGL
-- .NET, C#, SQL Server
-- UI automation (KIF, Specflow, Appium)
-- Git, Tfs, SourceTree, Gitflow
-- WebGL (THREE.js)
-- Unity
-- Rails, postgres
+Objective-C, Swift, Java, Kotlin, React Native, React web, Node.js, Javascript, Jenkins, CircleCI, WebGL, THREE.js, .NET, C#, SQL Server, Rails, Postgres, KIF, Specflow, Appium, Git, Tfs, Gitflow, Unity.
 
 ------
 
 ### Work History
 
+#### Surveybot
+**Rails contractor**  
+July 2017  
+
+[Surveybot](https://surveybot.io/) is a platform that lets you create chatbot surveys that respondants can answer via Facebook Messenger and Workplace
+
+- Maintain rails server
+- Improve test coverage
+
+#### Designer Wardrobe
+**iOS Contractor**  
+June 2017  
+
+[Designer Wardrobe](https://designerwardrobe.co.nz) is a platform to buy, sell or rent pre-loved designer women's clothing or accessories. 
+
+- Improve performance
+- Implement key features
+- Monitor and address bugs
+
 #### WearIt  
-(June 2016 - ongoing)  
-**Lead iOS Developer**
+**Lead Developer**  
+June 2016  
 
-WearIt is a platform for guys to get styling recommendations from stylists.
+[WearIt](https://www.wearit.co/) is a platform for guys to buy clothes, with recommendations from stylists.
 
-**Responsibilities**
-
-- Lead developer involved in key projects
+- Built WearIt
+- Built Messenger extension for WearIt
+- Built Facebook Messenger extension for WearIt (React web)
+- Maintain Rails server
+- Monitor and address bugs
 - Maintain continuous integration
-- Monitor crashlytics
-- Manage provisioning profiles and App store releases
-- Extend Rails server and make fixes when needed
-- Forked and repurposed several 3rd party libraries
 
 #### Vista Entertainment Solutions  
-(March 2012 - June 2016)  
 **iOS developer**  
+March 2012 - June 2016  
 
-Vista creates ticketing and management software for cinemas in over 40 countries, including Events and Hoyts.
+[Vista](http://www.vista.co) creates ticketing and management software for Events and Hoyts, and cinemas in over 40 countries.
 
-**Responsibilities and Achievements**:
+- Built CircuitStats
+- Built UsherPoint
+- Built InTouch
+- Built MobileCinema
+- Maintain .NET server
+- Set up continuous integration for iOS products
+- Runner-up with a colleague in Vista's Innovation Cup. Our entry was a web app that automates branding of the app for different cinema chains. It was later adopted into the release process.
+- Implement UI automated tests for Android and iOS 
+- Monitor and address bugs
 
-- Lead developer involved in key projects
-- Drove improvement with build automation, set up continuous integration for iOS
-- Mentored and peer programmed with junior/intern iOS developers, sharing knowledge of existing code architecture and common iOS pitfalls
-- Leveraging open source tools, developed a process to generate code documentations
-- Implemented UI Automation for Android and iOS using Specflow / Appium
-- Developed a Node.js internal tool to brand the ticketing app, replacing existing manual process
-- Introduced Crashlytics to the app, automated with CI
-- Runner-up with a colleague in Vista's Innovation Cup. Our entry was a web app for the end-to-end generation of branded builds for account managers. Built using Rails and Node.js
 
-**Apps**:
+#### Projects
+Here is a list of the products / personal projects I've made:
 
-#### Wearit 
-[https://itunes.apple.com/nz/app/wearit-guys-get-styled-girls/id1135291501?mt=8](https://itunes.apple.com/nz/app/wearit-guys-get-styled-girls/id1135291501?mt=8)  
+**iOS Apps**  
+[Wearit](https://itunes.apple.com/nz/app/wearit-guys-get-styled-girls/id1135291501?mt=8) Style recommendations for guys  
+[Circuit Stats](https://itunes.apple.com/us/app/circuit-stats/id396232359?mt=8) Monitor cinema tickets and concession sales   
+[UsherPoint](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108) Crowd control for cinema ushers  
+[InTouch](https://itunes.apple.com/nz/app/vista-intouch/id642693317) Stocktake and Location checks for cinema managers  
+[MobileCinema](https://itunes.apple.com/nz/app/vista-mobile/id882981768) Ticketing app for cinema goers 
 
-- Social app for guys to get styling recommendations from stylists
-- supports iMessage extension, send looks / products through messenger
-- App link / Universal link integration
-- Real time messaging using socket & push notifications
-- Browse products by category, prices, brands, colors etc
-- Interactive look builder for stylists
+**Windows Store Apps**  
+[Star Map](http://hellowinapps.com/app/sky-map/73b44797-85e2-4161-bfbb-a5efcbcbbc58) Star gazing app  
 
-#### UsherPoint
-[https://itunes.apple.com/nz/app/vista-usherpoint/id642694108](https://itunes.apple.com/nz/app/vista-usherpoint/id642694108)  
+**Websites**    
+[FourPlayer](http://fourplayer.herokuapp.com/) Watch four videos at the same time   
+[Voskel](http://voskel.herokuapp.com) Pixel art tool  
 
-- Crowd control for cinemas
-- External barcode scanner integration
-- View session times
-- Mark seats as broken
+**Games**  
+[Little Planet](https://will3.github.io/little-planet) 3D blocky tiny planet  
+[Meow](https://github.com/nychinn/meow) Typing game with cats  
 
-#### InTouch
-[https://itunes.apple.com/nz/app/vista-intouch/id642693317](https://itunes.apple.com/nz/app/vista-intouch/id642693317)  
-
-- App for cinema managers
-- Real time messaging with cinema staff
-- Location check using barcodes
-
-#### MobileCinema
-[https://itunes.apple.com/nz/app/vista-mobile/id882981768](https://itunes.apple.com/nz/app/vista-mobile/id882981768)  
-
-- Ticketing app for cinema goers.
-- Passbook integration
-- WeChat / AliPay integration
-- Apple Pay integration
-- Rebrand and used by 20 cinema chains
-- Built node tool to automate rebranding
-
-#### Star Map
-[http://hellowinapps.com/app/sky-map/73b44797-85e2-4161-bfbb-a5efcbcbbc58](http://hellowinapps.com/app/sky-map/73b44797-85e2-4161-bfbb-a5efcbcbbc58)  
-
-- Star gazing app
-- Over 13,000 stars
-- 88 Constellations
+**Personal Projects**  
+[iOSDribble](https://github.com/will3/iOSDribble) Implement designs from Dribble  
+[TradeMe Clone](https://github.com/will3/TradeMe) Attempt to clone TradeMe  
+[Node modules](https://www.npmjs.com/~will3) Node modules  
 
 ------
 
@@ -107,33 +93,6 @@ Vista creates ticketing and management software for cinemas in over 40 countries
 
 ##### University of Auckland (2008 - 2012)  
 Bachelor's Degree, Information Systems
-
-------
-
-### Projects
-
-- iOSDribble  
-A collection of custom UI controls  
-	[https://github.com/will3/iOSDribble](https://github.com/will3/iOSDribble)
-
-- TradeMe  
-Trade me clone  
-	[https://github.com/will3/TradeMe](https://github.com/will3/TradeMe)
-
-- Voskel  
-Pixel art editor  
-  [http://voskel.herokuapp.com](http://voskel.herokuapp.com)
-
-- Little Planet  
-Procedural planet generator  
-	[https://will3.github.io/little-planet/](https://will3.github.io/little-planet)
-
-- Meow  
-Cat game  
-	[https://github.com/nychinn/meow](https://github.com/nychinn/meow)
-
-- Node modules  
-	[https://www.npmjs.com/~will3](https://www.npmjs.com/~will3)
 
 ------
 
